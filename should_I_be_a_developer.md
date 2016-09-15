@@ -1,3 +1,4 @@
+```
 # Should I be a Developer?
 - Stephon Harris
 September 14, 2016
@@ -128,3 +129,4 @@ No one wakes up and says today I have finally become a software developer. It's 
 - If you're new and looking for a place to start out check out this learning resource I created.
 - If you'd like to check out these slides or other talks I've done check out my github account.
  -->
+```
