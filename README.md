@@ -11,3 +11,6 @@ Here lies all my public presentation scripts. You can find matching slides in [s
 ## -  [Presentation](https://swipe.to/7247s)
 
 # [Becoming a CI Cook with Git Hooks pt. 1](https://github.com/theonestep4/talks/blob/master/Git%20Hooks.md)
+
+# [Should I be a developer?](https://github.com/theonestep4/talks/blob/master/should_I_be_a_developer.md)
+## - [Presentation](https://swipe.to/1135cf)
