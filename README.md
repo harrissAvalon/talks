@@ -14,3 +14,5 @@ Here lies all my public presentation scripts. You can find matching slides in [s
 
 # [Should I be a developer?](https://github.com/theonestep4/talks/blob/master/should_I_be_a_developer.md)
 ## - [Presentation](https://swipe.to/1135cf)
+
+# [Design Thinking](https://docs.google.com/presentation/d/1KG5ZHZ-inBm73zhrKtpZyrJL-bXstvrmhIh3Zw11h2c/edit?usp=sharing)
